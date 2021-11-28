@@ -33,3 +33,4 @@
 -   [How To Create a WhatsApp Click-to-Chat CTA Link](https://bettermarketing.pub/how-to-create-a-whatsapp-click-to-chat-cta-link-3f56d6e6fb33)
 -   [A Stock Picking Inspired Method to Choose the Right Publications on Medium](https://medium.com/illumination/a-complete-guide-on-how-to-choose-the-right-publications-a1a9a93507fb)
 -   [The 3 Rules That Helped Me Reach 100k Views on Medium with Technical Articles](https://levelup.gitconnected.com/the-3-rules-that-helped-me-reach-100k-views-on-medium-with-technical-articles-f43807b030cf)
+-   [I Will Never Play a Video Game Again in My Life](https://byrslf.co/i-will-never-play-a-video-game-again-in-my-life-14ff4257bfd8)
