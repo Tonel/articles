@@ -32,6 +32,7 @@
 -   [I Will Never Play a Video Game Again in My Life](https://byrslf.co/i-will-never-play-a-video-game-again-in-my-life-14ff4257bfd8)
 -   [The Quarter-Life Crisis Is Real](https://medium.com/mind-cafe/the-quarter-life-crisis-is-real-b0f835ce066c)
 -   [A New Publication for All Language Learners on Medium](https://medium.com/illumination/a-new-publication-for-all-language-learners-on-medium-e99de3fbe240)
+-   [Announcing a New Medium Publication — Write for Us!](https://medium.com/feedium/announcing-a-new-medium-publication-write-for-us-a3e22ce6c33b)
 
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
@@ -40,5 +41,4 @@
 -   [Original Resources To Improve Your Italian From An Italian](https://medium.com/language-lab/original-resources-to-improve-your-italian-from-an-italian-ecc6e971ad92)
 -   [Write For Us](https://medium.com/language-hub/write-for-us-893140e5ab6f)
 -   [How To Support Language Hub](https://medium.com/language-hub/how-to-support-language-hub-dbef01de50be)
--   [Announcing a New Medium Publication — Write for Us!](https://medium.com/feedium/announcing-a-new-medium-publication-write-for-us-a3e22ce6c33b)
 
