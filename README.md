@@ -40,4 +40,5 @@
 -   [Original Resources To Improve Your Italian From An Italian](https://medium.com/language-lab/original-resources-to-improve-your-italian-from-an-italian-ecc6e971ad92)
 -   [Write For Us](https://medium.com/language-hub/write-for-us-893140e5ab6f)
 -   [How To Support Language Hub](https://medium.com/language-hub/how-to-support-language-hub-dbef01de50be)
+-   [Announcing a New Medium Publication — Write for Us!](https://medium.com/feedium/announcing-a-new-medium-publication-write-for-us-a3e22ce6c33b)
 
