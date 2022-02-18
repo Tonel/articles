@@ -34,6 +34,7 @@
 -   [A New Publication for All Language Learners on Medium](https://medium.com/illumination/a-new-publication-for-all-language-learners-on-medium-e99de3fbe240)
 -   [Announcing a New Medium Publication — Write for Us!](https://medium.com/feedium/announcing-a-new-medium-publication-write-for-us-a3e22ce6c33b)
 -   [I Rage Quit My First Job After Only 5 Days](https://medium.com/illumination/i-rage-quit-my-first-job-after-only-5-days-d3213c60f94c)
+-   [Everyone Should Be Able To Write With Both Hands](https://medium.com/inspired-writer/everyone-should-be-able-to-write-with-both-hands-9f9a1bf8b202)
  
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
