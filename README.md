@@ -44,3 +44,5 @@
 -   [Write For Us](https://medium.com/language-hub/write-for-us-893140e5ab6f)
 -   [How To Support Language Hub](https://medium.com/language-hub/how-to-support-language-hub-dbef01de50be)
 -   [The Forgotten and Now Endangered Languages of Italy](https://medium.com/language-hub/the-forgotten-and-now-endangered-languages-of-italy-24cec12adc4)
+-   [What Code-Switching Is and How It Works](https://antozanini.medium.com/start-here-5c7a7fa2bc45)
+](https://antozanini.medium.com/start-here-5c7a7fa2bc45)
