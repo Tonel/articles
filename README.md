@@ -36,6 +36,7 @@
 -   [I Rage Quit My First Job After Only 5 Days](https://medium.com/illumination/i-rage-quit-my-first-job-after-only-5-days-d3213c60f94c)
 -   [Everyone Should Be Able To Write With Both Hands](https://medium.com/inspired-writer/everyone-should-be-able-to-write-with-both-hands-9f9a1bf8b202)
 -   [The Stats Behind My First 100 Stories on Medium](https://medium.com/feedium/the-stats-behind-my-first-100-stories-on-medium-66f949f69f84)
+-   [DatoCMS Case Study: How Technical Blog Posts Can Boost Your SEO](https://medium.com/feedium/datocms-case-study-how-technical-blog-posts-can-boost-your-seo-93ed30d36b0d)
  
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
