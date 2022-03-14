@@ -48,3 +48,4 @@
 -   [The Forgotten and Now Endangered Languages of Italy](https://medium.com/language-hub/the-forgotten-and-now-endangered-languages-of-italy-24cec12adc4)
 -   [What Code-Switching Is and How It Works](https://antozanini.medium.com/start-here-5c7a7fa2bc45)
 -   [What an Italian Thinks of the Italian Accent in House of Gucci](https://medium.com/language-hub/what-an-italian-thinks-of-the-italian-accent-in-house-of-gucci-7cd380c07edf)
+-   [Introducing the Language Hub Discord Server](https://medium.com/language-hub/introducing-the-language-hub-discord-server-232c2ecc734)
