@@ -38,6 +38,7 @@
 -   [The Stats Behind My First 100 Stories on Medium](https://medium.com/feedium/the-stats-behind-my-first-100-stories-on-medium-66f949f69f84)
 -   [DatoCMS Case Study: How Technical Blog Posts Can Boost Your SEO](https://medium.com/feedium/datocms-case-study-how-technical-blog-posts-can-boost-your-seo-93ed30d36b0d)
 -   [The Day I Realized I Am Cool-Headed](https://byrslf.co/the-day-i-realized-i-am-cold-blooded-44b73c5f89b2)
+-   [Why I Gave Away My University Notes Worth Thousands of Dollars for Free](https://byrslf.co/why-i-gave-away-my-university-notes-worth-thousands-of-dollars-for-free-d715997c631c)
  
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
