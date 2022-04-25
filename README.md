@@ -7,7 +7,7 @@
 -   [Why COVID-19 Made Me Value Emotional Independence](https://byrslf.co/why-i-value-emotional-independence-4fea3cdd619b)
 -   [5 Lessons Learned From My First Year of Writing](https://medium.com/inspired-writer/5-lessons-learned-from-my-first-year-of-writing-5da99c130aca)
 -   [I Tried My Best To Avoid Going Viral, But Failed](https://medium.com/inspired-writer/i-tried-my-best-to-avoid-going-viral-but-failed-af76d4f764d3)
--   [3 Lessons I Learned From Living in an Unbelievably Beautiful Place](https://medium.com/mind-cafe/3-lessons-i-learned-from-living-in-an-unbelievably-beautiful-place-85f2dd65b2b5)
+-   [3 Lessons I Learned From Living in Sirmione, Italy](https://medium.com/mind-cafe/3-lessons-i-learned-from-living-in-an-unbelievably-beautiful-place-85f2dd65b2b5)
 -   [I Changed My Usual Topics for One Month and Failed Miserably](https://medium.com/inspired-writer/i-changed-my-usual-topics-for-one-month-and-failed-miserably-9ec0f4543c2f)
 -   [Writing Is About The Why](https://medium.com/inspired-writer/writing-is-about-the-why-f7a550ae339)
 -   [Academic Success in the Metaphor of the Divine Comedy](https://medium.com/age-of-awareness/9-steps-to-academic-success-cb44443e2cc7)
