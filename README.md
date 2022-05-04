@@ -52,5 +52,6 @@
 -   [What an Italian Thinks of the Italian Accent in House of Gucci](https://medium.com/language-hub/what-an-italian-thinks-of-the-italian-accent-in-house-of-gucci-7cd380c07edf)
 -   [Introducing the Language Hub Discord Server](https://medium.com/language-hub/introducing-the-language-hub-discord-server-232c2ecc734)
 -   [Language Hub Newsletter and Topic of the Month Announcement](https://medium.com/language-hub/language-hub-newsletter-and-topic-of-the-month-announcement-54495f18dc2c)
--   [April 2022: Topic of the Month: Dreams](https://medium.com/language-hub/april-2022-topic-of-the-month-dreams-f9b4407db345)
+-   [[April 2022]: Topic of the Month: Dreams](https://medium.com/language-hub/april-2022-topic-of-the-month-dreams-f9b4407db345)
 -   [What Language Do Polyglots Dream In?](https://medium.com/language-hub/what-language-do-polyglots-dream-in-7190517afff)
+-   [[May 2022] Topic of the Month: Favorite Languages](https://medium.com/language-hub/may-2022-topic-of-the-month-favorite-languages-fe1470361bfb)
