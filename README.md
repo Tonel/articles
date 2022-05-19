@@ -55,3 +55,4 @@
 -   [[April 2022]: Topic of the Month: Dreams](https://medium.com/language-hub/april-2022-topic-of-the-month-dreams-f9b4407db345)
 -   [What Language Do Polyglots Dream In?](https://medium.com/language-hub/what-language-do-polyglots-dream-in-7190517afff)
 -   [[May 2022] Topic of the Month: Favorite Languages](https://medium.com/language-hub/may-2022-topic-of-the-month-favorite-languages-fe1470361bfb)
+-   [3 Uncommon Lessons I Learned From My First 500K Views on Medium](https://medium.com/feedium/3-uncommon-lessons-i-learned-from-my-first-500k-views-on-medium-64a673e72f91)
