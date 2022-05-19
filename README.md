@@ -39,6 +39,7 @@
 -   [DatoCMS Case Study: How Technical Blog Posts Can Boost Your SEO](https://medium.com/feedium/datocms-case-study-how-technical-blog-posts-can-boost-your-seo-93ed30d36b0d)
 -   [The Day I Realized I Am Cool-Headed](https://byrslf.co/the-day-i-realized-i-am-cold-blooded-44b73c5f89b2)
 -   [Why I Gave Away My University Notes Worth Thousands of Dollars for Free](https://byrslf.co/why-i-gave-away-my-university-notes-worth-thousands-of-dollars-for-free-d715997c631c)
+-   [3 Uncommon Lessons I Learned From My First 500K Views on Medium](https://medium.com/feedium/3-uncommon-lessons-i-learned-from-my-first-500k-views-on-medium-64a673e72f91)
  
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
@@ -55,4 +56,3 @@
 -   [[April 2022]: Topic of the Month: Dreams](https://medium.com/language-hub/april-2022-topic-of-the-month-dreams-f9b4407db345)
 -   [What Language Do Polyglots Dream In?](https://medium.com/language-hub/what-language-do-polyglots-dream-in-7190517afff)
 -   [[May 2022] Topic of the Month: Favorite Languages](https://medium.com/language-hub/may-2022-topic-of-the-month-favorite-languages-fe1470361bfb)
--   [3 Uncommon Lessons I Learned From My First 500K Views on Medium](https://medium.com/feedium/3-uncommon-lessons-i-learned-from-my-first-500k-views-on-medium-64a673e72f91)
