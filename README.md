@@ -40,7 +40,8 @@
 -   [The Day I Realized I Am Cool-Headed](https://byrslf.co/the-day-i-realized-i-am-cold-blooded-44b73c5f89b2)
 -   [Why I Gave Away My University Notes Worth Thousands of Dollars for Free](https://byrslf.co/why-i-gave-away-my-university-notes-worth-thousands-of-dollars-for-free-d715997c631c)
 -   [3 Uncommon Lessons I Learned From My First 500K Views on Medium](https://medium.com/feedium/3-uncommon-lessons-i-learned-from-my-first-500k-views-on-medium-64a673e72f91)
- 
+ -  [The Epiphany I Had In College That Changed My Life Forever](https://byrslf.co/the-epiphany-i-had-in-college-that-changed-my-life-forever-fc544fa3b91c)
+
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
 -   [The Dark Side of Language Learning](https://medium.com/language-lab/the-dark-side-of-language-learning-aeb226949124)
