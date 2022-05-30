@@ -57,3 +57,4 @@
 -   [[April 2022]: Topic of the Month: Dreams](https://medium.com/language-hub/april-2022-topic-of-the-month-dreams-f9b4407db345)
 -   [What Language Do Polyglots Dream In?](https://medium.com/language-hub/what-language-do-polyglots-dream-in-7190517afff)
 -   [[May 2022] Topic of the Month: Favorite Languages](https://medium.com/language-hub/may-2022-topic-of-the-month-favorite-languages-fe1470361bfb)
+-   [I Have a Favorite Language for Every Situation in Life](https://medium.com/language-hub/i-have-a-favorite-language-for-every-situation-in-life-fee63fac6414)
