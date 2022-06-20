@@ -43,6 +43,7 @@
 -  [The Epiphany I Had In College That Changed My Life Forever](https://byrslf.co/the-epiphany-i-had-in-college-that-changed-my-life-forever-fc544fa3b91c)
 -  [Why Sometimes Not Trying Is the Best Approach To Life](https://betterhumans.pub/why-sometimes-not-trying-is-the-best-approach-to-life-92d3e1dffa3c)
 -  [7 Keys To Becoming a Freelance Technical Writer](https://levelup.gitconnected.com/7-keys-to-becoming-a-freelance-technical-writer-6edd7f40f958)
+-  [5 Steps to Start Selling Online](https://medium.com/illumination/5-steps-to-start-selling-online-413539bcb1ba)
 
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
