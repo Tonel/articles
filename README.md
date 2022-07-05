@@ -63,3 +63,4 @@
 -   [I Have a Favorite Language for Every Situation in Life](https://medium.com/language-hub/i-have-a-favorite-language-for-every-situation-in-life-fee63fac6414)
 -   [[June 2022] Topic of the Month: Memes and Funny Stories](https://medium.com/language-hub/june-2022-topic-of-the-month-memes-and-funny-stories-149752f0efa3)
 -   [The Ric Flair Approach To Language Learning](https://medium.com/language-hub/the-ric-flair-approach-to-language-learning-a356fe85e971)
+-   [[July 2022] Topic of the Month: Love](https://medium.com/language-hub/july-2022-topic-of-the-month-love-1292600ccf9c)
