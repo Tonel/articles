@@ -44,6 +44,7 @@
 -  [Why Sometimes Not Trying Is the Best Approach To Life](https://betterhumans.pub/why-sometimes-not-trying-is-the-best-approach-to-life-92d3e1dffa3c)
 -  [7 Keys To Becoming a Freelance Technical Writer](https://levelup.gitconnected.com/7-keys-to-becoming-a-freelance-technical-writer-6edd7f40f958)
 -  [5 Steps to Start Selling Online](https://medium.com/illumination/5-steps-to-start-selling-online-413539bcb1ba)
+-  [The Colossal Untapped Value Of Asteroids](https://medium.com/predict/the-colossal-untapped-value-of-asteroids-d1a59ef41014)
 
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
