@@ -67,3 +67,4 @@
 -   [The Ric Flair Approach To Language Learning](https://medium.com/language-hub/the-ric-flair-approach-to-language-learning-a356fe85e971)
 -   [[July 2022] Topic of the Month: Love](https://medium.com/language-hub/july-2022-topic-of-the-month-love-1292600ccf9c)
 -   [No, You Do Not Have To Know Everything](https://betterhumans.pub/no-you-do-not-have-to-know-everything-c04098a3d51c)
+-   [How to Attract the First 100 Writers to Your Medium Publication](https://medium.com/feedium/how-to-attract-the-first-100-writers-to-your-medium-publication-1fa191264885)
