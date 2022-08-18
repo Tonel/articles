@@ -48,6 +48,8 @@
 -   [What I Wish I Had Known in My Early 20s About Time](https://byrslf.co/what-i-wish-i-had-known-in-my-early-20s-about-time-f586ed04067e)
 -   [No, You Do Not Have To Know Everything](https://betterhumans.pub/no-you-do-not-have-to-know-everything-c04098a3d51c)
 -   [How to Attract the First 100 Writers to Your Medium Publication](https://medium.com/feedium/how-to-attract-the-first-100-writers-to-your-medium-publication-1fa191264885)
+-   [I Wish I Had Started as a Content Creator During College](https://byrslf.co/i-wish-i-had-started-as-a-content-creator-during-college-50922f2ee1)
+-   [How To Ignore the Competition and Start Helping Others](https://byrslf.co/how-to-ignore-the-competition-and-start-helping-others-e3bd70bcd884)
 
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
