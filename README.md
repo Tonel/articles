@@ -74,3 +74,4 @@
 -   [[August 2022] Topic of the Month: Tips](https://medium.com/language-hub/august-2022-topic-of-the-month-tips-2944b94fc349)
 -   [A 9-Step Strategy for Learning a Language Productively](https://medium.com/language-hub/a-9-step-strategy-for-learning-a-language-productively-654a8f93827f)
 -   [[September 2022] Topic of the Month: Struggle](https://medium.com/language-hub/september-2022-topic-of-the-month-struggle-51f3dacf89a6)
+-   [Language Hub Now Has a LinkedIn Page](https://medium.com/language-hub/language-hub-now-has-a-linkedin-page-726d7a6b2c36)
