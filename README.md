@@ -51,6 +51,7 @@
 -   [I Wish I Had Started as a Content Creator During College](https://byrslf.co/i-wish-i-had-started-as-a-content-creator-during-college-50922f2ee1)
 -   [How To Ignore the Competition and Start Helping Others](https://byrslf.co/how-to-ignore-the-competition-and-start-helping-others-e3bd70bcd884)
 -   [The Definition of Intelligence According to an Ancient Philosopher](https://medium.com/mind-cafe/the-definition-of-intelligence-according-to-an-ancient-philosopher-59544ba35cef)
+-   [Aristotle Laid the Foundation for Object-Oriented Programming](https://levelup.gitconnected.com/aristotle-laid-the-foundation-for-object-oriented-programming-c8ce840e8380)
 
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
