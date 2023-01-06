@@ -83,3 +83,4 @@
 -   [[December 2022] Topic of the Month: New Year’s Resolutions](https://medium.com/language-hub/december-2022-topic-of-the-month-new-years-resolutions-dc469d5e4f8a)
 -   [Practice Paradise — Course Review](https://medium.com/language-hub/practice-paradise-course-review-cc6f2dfbfe71)
 -   [My Language Learning Plan For 2023](https://medium.com/language-hub/my-language-learning-plan-for-2023-1f09a674be47)
+-   [[January 2023] Topic of the Month: Consequences](https://medium.com/language-hub/january-2023-topic-of-the-month-consequences-a3f360ad0271)
