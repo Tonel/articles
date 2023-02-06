@@ -85,3 +85,4 @@
 -   [My Language Learning Plan For 2023](https://medium.com/language-hub/my-language-learning-plan-for-2023-1f09a674be47)
 -   [[January 2023] Topic of the Month: Consequences](https://medium.com/language-hub/january-2023-topic-of-the-month-consequences-a3f360ad0271)
 -   [Nonfiction Book Reviews: Unlock Your Writing Potential With "Read to Learn"](https://antozanini.medium.com/nonfiction-book-reviews-unlock-your-writing-potential-with-read-to-learn-85f8c3461350)
+-   [How Learning Languages Helped Me Build a 6-Figure Business](https://medium.com/language-hub/how-learning-languages-helped-me-build-a-6-figure-business-f110929af7a8)
