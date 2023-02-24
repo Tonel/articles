@@ -54,6 +54,7 @@
 -   [Aristotle Laid the Foundation for Object-Oriented Programming](https://levelup.gitconnected.com/aristotle-laid-the-foundation-for-object-oriented-programming-c8ce840e8380)
 -   [The Most Important Lesson My Grandma Taught Me About Life](https://medium.com/mind-cafe/the-most-important-lesson-my-grandma-taught-me-about-life-a5294e479428)
 -   [Book Review: "The Millionaire Next Door"](https://medium.com/non-fiction-book-reviews/book-review-the-millionaire-next-door-a46c5f145abb)
+-   [Every Time I Almost Died in My Life](https://byrslf.co/every-time-i-almost-died-in-my-life-dcaedb2d9023)
 
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
