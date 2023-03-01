@@ -89,3 +89,4 @@
 -   [Nonfiction Book Reviews: Unlock Your Writing Potential With "Read to Learn"](https://antozanini.medium.com/nonfiction-book-reviews-unlock-your-writing-potential-with-read-to-learn-85f8c3461350)
 -   [How Learning Languages Helped Me Build a 6-Figure Business](https://medium.com/language-hub/how-learning-languages-helped-me-build-a-6-figure-business-f110929af7a8)
 -   [[February 2023] Topic of the Month: AI](https://medium.com/language-hub/february-2023-topic-of-the-month-ai-4dab77113dae)
+-   [[March 2023] Topic of the Month: AI (Part II)](https://medium.com/language-hub/march-2023-topic-of-the-month-ai-part-ii-4e4cb9bc7f21)
