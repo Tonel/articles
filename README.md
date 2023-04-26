@@ -92,3 +92,4 @@
 -   [[February 2023] Topic of the Month: AI](https://medium.com/language-hub/february-2023-topic-of-the-month-ai-4dab77113dae)
 -   [[March 2023] Topic of the Month: AI (Part II)](https://medium.com/language-hub/march-2023-topic-of-the-month-ai-part-ii-4e4cb9bc7f21)
 -   [[April 2023] Topic of the Month: How Language Changes Your Personality](https://medium.com/language-hub/april-2023-topic-of-the-month-how-language-changes-your-personality-34fb58034b9d)
+-   [We Have Been Featured in a Language Simp Video!](https://medium.com/language-hub/we-have-been-featured-in-a-language-simp-video-def183572c83)
