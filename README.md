@@ -95,4 +95,5 @@
 -   [[April 2023] Topic of the Month: How Language Changes Your Personality](https://medium.com/language-hub/april-2023-topic-of-the-month-how-language-changes-your-personality-34fb58034b9d)
 -   [[May 2023] Topic of the Month: Favorite Words](https://medium.com/language-hub/may-2023-topic-of-the-month-favorite-words-ef279ace6b4b)
 -   [[June 2023] Topic of the Month: Fundamental Concepts](https://medium.com/language-hub/june-2023-topic-of-the-month-fundamental-concepts-7c28705dd1a7)
+-   [[July 2023] Topic of the Month: Plateau Effect](https://medium.com/language-hub/july-2023-topic-of-the-month-plateau-effect-7bafab8f9f19)
 
