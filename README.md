@@ -56,7 +56,6 @@
 -   [Book Review: "The Millionaire Next Door"](https://medium.com/non-fiction-book-reviews/book-review-the-millionaire-next-door-a46c5f145abb)
 -   [Every Time I Almost Died in My Life](https://byrslf.co/every-time-i-almost-died-in-my-life-dcaedb2d9023)
 -   [The Best Site to Find Paid Opportunities for Technical Writers](https://javascript.plainenglish.io/the-best-site-to-find-paid-opportunities-for-technical-writers-1521b3049b52)
--   [We Have Been Featured in a Language Simp Video!](https://medium.com/language-hub/we-have-been-featured-in-a-language-simp-video-def183572c83)
 
 ### [Language Hub](https://medium.com/language-hub)
 -   [5 Mindsets for Learning a New Language Backed By a Polyglot](https://medium.com/language-lab/5-mindsets-for-learning-a-new-language-backed-by-a-polyglot-6c24196de6a5)
@@ -95,5 +94,6 @@
 -   [[April 2023] Topic of the Month: How Language Changes Your Personality](https://medium.com/language-hub/april-2023-topic-of-the-month-how-language-changes-your-personality-34fb58034b9d)
 -   [[May 2023] Topic of the Month: Favorite Words](https://medium.com/language-hub/may-2023-topic-of-the-month-favorite-words-ef279ace6b4b)
 -   [[June 2023] Topic of the Month: Fundamental Concepts](https://medium.com/language-hub/june-2023-topic-of-the-month-fundamental-concepts-7c28705dd1a7)
+-   [We Have Been Featured in a Language Simp Video!](https://medium.com/language-hub/we-have-been-featured-in-a-language-simp-video-def183572c83)
 -   [[July 2023] Topic of the Month: Plateau Effect](https://medium.com/language-hub/july-2023-topic-of-the-month-plateau-effect-7bafab8f9f19)
-
+-   [What Is the Bresciano Language?](https://medium.com/language-hub/what-is-the-bresciano-language-63726cba5784)
