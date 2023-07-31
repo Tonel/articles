@@ -97,3 +97,4 @@
 -   [We Have Been Featured in a Language Simp Video!](https://medium.com/language-hub/we-have-been-featured-in-a-language-simp-video-def183572c83)
 -   [[July 2023] Topic of the Month: Plateau Effect](https://medium.com/language-hub/july-2023-topic-of-the-month-plateau-effect-7bafab8f9f19)
 -   [What Is the Bresciano Language?](https://medium.com/language-hub/what-is-the-bresciano-language-63726cba5784)
+-   [How to Overcome the Language Learning Plateau](https://medium.com/language-hub/how-to-overcome-the-language-learning-plateau-74555fe7fae3)
