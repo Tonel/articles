@@ -98,3 +98,4 @@
 -   [[July 2023] Topic of the Month: Plateau Effect](https://medium.com/language-hub/july-2023-topic-of-the-month-plateau-effect-7bafab8f9f19)
 -   [What Is the Bresciano Language?](https://medium.com/language-hub/what-is-the-bresciano-language-63726cba5784)
 -   [How to Overcome the Language Learning Plateau](https://medium.com/language-hub/how-to-overcome-the-language-learning-plateau-74555fe7fae3)
+-   [[August 2023] Topic of the Month: Aliens](https://medium.com/language-hub/august-2023-topic-of-the-month-aliens-858acb452546)
