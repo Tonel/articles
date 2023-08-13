@@ -8,7 +8,6 @@
 -   [What Makes Stupid People Stupid](https://medium.com/mind-cafe/what-makes-stupid-people-stupid-522028d6569f)
 -   [The 3 Causes of Human Stupidity](https://medium.com/mind-cafe/the-3-causes-of-human-stupidity-1e42578fe27e)
 -   [How To Build an Embeddable Newsletter Signup Form with Google Forms, Mailchimp, and Zapier](https://bettermarketing.pub/how-to-build-an-embeddable-newsletter-signup-form-with-google-forms-mailchimp-and-zapier-b9e768d250b6)
--   [I Will Never Play a Video Game Again in My Life](https://byrslf.co/i-will-never-play-a-video-game-again-in-my-life-14ff4257bfd8)
 -   [How To Create a WhatsApp Click-to-Chat CTA Link](https://bettermarketing.pub/how-to-create-a-whatsapp-click-to-chat-cta-link-3f56d6e6fb33)
 -   [The Quarter-Life Crisis Is Real](https://medium.com/mind-cafe/the-quarter-life-crisis-is-real-b0f835ce066c)
 -   [The Definition of Intelligence According to an Ancient Philosopher](https://medium.com/mind-cafe/the-definition-of-intelligence-according-to-an-ancient-philosopher-59544ba35cef)
